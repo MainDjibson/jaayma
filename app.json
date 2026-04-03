@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Jaayma",
+    "slug": "jaayma",
+    "scheme": "jaayma",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "plugins": ["expo-router"],
+    "android": {
+      "package": "com.yourname.jaayma"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourname.jaayma"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
